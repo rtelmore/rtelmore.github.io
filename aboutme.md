@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ryan Elmore
+subtitle: A little about me
 ---
 
 After several years away, I am back in the academic environment.  I'm starting
