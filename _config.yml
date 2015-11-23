@@ -38,15 +38,15 @@ navbar-links:
 author:
   name: Ryan Elmore
   email: "rtelmore@gmail.com"
-  github: rtelmore    # eg. daattali
   twitter: rtelmore   # eg. daattali
+  github: rtelmore    # eg. daattali
   linkedin: "in/rtelmore"
 #  facebook: yourname  # eg. daattali
   # eg. "pub/dean-attali/8/946/143"
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+# rss: false
   email: true
   twitter: true
   github: true
