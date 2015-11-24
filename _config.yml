@@ -27,7 +27,8 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Personal: "personal"
+  Research: "research"
   About Me: "aboutme"
   Contact: "contact"
 
