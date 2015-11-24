@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ryan Elmore
-subtitle: A little about me
+title: A Brief History of Me
+subtitle: Ryan Elmore
 ---
 
 After several years away, I am back in the academic environment.  I'm starting
